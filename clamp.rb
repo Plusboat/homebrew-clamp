@@ -1,7 +1,7 @@
 class Clamp < Formula
   desc "command-line tool for local MAMP management"
   homepage "https://jide.github.io/clamp"
-  url "https://github.com/Plusboat/clamp.git", :using => :git, :tag => "1.4.7", :revision => "1745222fe07a1892bc6d413eb9187c22478a0b3a"
+  url "https://github.com/Plusboat/clamp.git", :using => :git, :tag => "1.4.8", :revision => "eb5c656c20a7e42d42ec74bb2db346fe554cbb48"
 
   depends_on "httpd"
   depends_on "php"
